@@ -4,14 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/ZongyuLi-umich/2023-PGPR) 
-Poisson-Gaussian Holographic Phase Retrieval with Score-based Image Prior.
+### [Poisson-Gaussian Holographic Phase Retrieval with Score-based Image Prior](https://github.com/ZongyuLi-umich/2023-PGPR) 
 This study focuses on holographic phase retrieval in situations where the measurements are degraded by a combination of Poisson and Gaussian noise, as commonly occurs in optical imaging systems. We propose a new algorithm called “AWFS" that uses accelerated Wirtinger flow (AWF) with a learned score function as a generative prior. Specifically, we formulate the PR problem as an optimization problem that incorporates both data fidelity and regularization terms. We calculate the gradient of the log-likelihood function for PR and determine its corresponding Lipschitz constant. Additionally, we introduce a generative prior in our regularization framework by using score matching to capture information about the gradient of image prior distributions.
-***
 
-### [Project 2](https://pubmed.ncbi.nlm.nih.gov/34882821/)
+### [DblurDoseNet](https://pubmed.ncbi.nlm.nih.gov/34882821/)
 Current methods for patient-specific voxel-level dosimetry in radionuclide therapy suffer from a trade-off between accuracy and computational efficiency. Monte Carlo (MC) radiation transport algorithms are considered the gold standard for voxel-level dosimetry but can be computationally expensive, whereas faster dose voxel kernel (DVK) convolution can be suboptimal in the presence of tissue heterogeneities. Furthermore, the accuracies of both these methods are limited by the spatial resolution of the reconstructed emission image. To overcome these limitations, we consider a single deep convolutional neural network (CNN) with residual learning (named DblurDoseNet) that learns to produce dose-rate maps while compensating for the limited resolution of SPECT images.
-***
 
 ## Other Projects
 
