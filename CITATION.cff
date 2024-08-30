@@ -1,1 +1,9 @@
-DOI: 10.5281/zenodo.13621268
+@software{Li_24_github,
+  author = {Li, Zongyu},
+  doi = {10.5281/zenodo.13621268},
+  month = {8},
+  title = {{My Github Repo}},
+  url = {https://github.com/ZongyuLi-umich/ZongyuLi-umich.github.io},
+  version = {v0.0.1},
+  year = {2024}
+}
