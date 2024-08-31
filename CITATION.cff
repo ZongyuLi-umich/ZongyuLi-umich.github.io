@@ -1,9 +1,9 @@
-@software{Li_24_github,
-  author = {Li, Zongyu},
-  doi = {10.5281/zenodo.13621268},
-  month = {8},
-  title = {{My Github Repo}},
-  url = {https://github.com/ZongyuLi-umich/ZongyuLi-umich.github.io},
-  version = {v0.0.1},
-  year = {2024}
-}
+cff-version: 1.2.0
+authors:
+- family-names: "Li"
+  given-names: "Zongyu"
+title: "My Github Repo"
+version: 0.1
+doi: 10.5281/zenodo.13621268
+date-released: 2024-08-30
+url: "https://github.com/ZongyuLi-umich/ZongyuLi-umich.github.io"
